@@ -12,7 +12,7 @@ The scan-2-QC framework involves the following general steps:
 
 The following video provides a visual demonstration of the scan-to-QC process.
 
-
+https://github.com/user-attachments/assets/def67e4a-6e52-4cec-aea6-4400efe6e8c3
 
 # Explanation of Repository Files
 Four sets of standalone Matlab Applications are provided together with this repository to allow the users to apply random and large transormations on the point cloud of a sample W–Section. Two overall categories, based on the operating systems of Mac and Windows was provided. Each contained two types of Apps, namely, parallel, and no-parallel. The parallel app performs the optimization using the Parallel Processing Toolbox of MATLAB, where as the no-parallel app performs optimization evaluations through single core processing.
