@@ -14,9 +14,14 @@ The following video provides a visual demonstration of the scan-to-QC process.
 
 
 
-Uploading Scan-to-QC.mp4…
-
-
 # Explanation of Repository Files
 Four sets of standalone Matlab Applications are provided together with this repository to allow the users to apply random and large transormations on the point cloud of a sample W–Section. Two overall categories, based on the operating systems of Mac and Windows was provided. Each contained two types of Apps, namely, parallel, and no-parallel. The parallel app performs the optimization using the Parallel Processing Toolbox of MATLAB, where as the no-parallel app performs optimization evaluations through single core processing.
 
+# Citation
+The study is published in the IEEE Access journal, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
+
+Maalek, R., Maalek, S. 2025. Scan-2-QC: Quality Control of Prefabricated Structural Systems using Point Cloud, IEEE Access, doi:10.1109/ACCESS.2025.3639809.
+
+# Acknowledgements
+
+The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
